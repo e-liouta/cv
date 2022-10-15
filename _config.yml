@@ -80,16 +80,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University Of Patras
+        caption: 2022 - Current
+        sub_title: MSc, Human - Computer Interaction
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          I just started this Master Program and I am very excited!
+          
+     content:
+      - layout: left
+        title: Vocational Training Institute Delta 360
+        caption: 2018 - 2020
+        sub_title: Diploma of Print & Electronic Media Graphic Design
+        description: | # this will include new lines to allow paragraphs
+          During this programm I developed skills like drawing, color theory, aesthetics, branding, graphic design, web design and motion graphics.
+          
+      content:
+      - layout: left
+        title: University Of Ioannina
+        caption: 2012 - 2018
+        sub_title: ΒΑ, Comptuter Science
+        description: | # this will include new lines to allow paragraphs
+          During my studies at the department of Computer Science at the University of Ioannina, I had the opportunity to learn about many different fields and programming languages. My favourite were Computer Graphics, Μultimedia and Operating Systems.
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
