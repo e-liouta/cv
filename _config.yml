@@ -45,6 +45,15 @@ content:
         caption: May 2019 - September 2022
         description: | # this will include new lines to allow paragraphs
             Responsive Web Design | Website Development (using CMS) | SEO | Database Optimization | Site-Health Maintance.
+       
+     layout: list # Type of content section (list/text)
+     content:     
+       - layout: left
+        title: Plantech
+        sub_title: Web Designer & Developer
+        caption: May 2019 - September 2022
+        description: | # this will include new lines to allow paragraphs
+            Responsive Web Design | Website Development (using CMS) | SEO | Database Optimization | Site-Health Maintance.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
