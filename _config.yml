@@ -1,13 +1,9 @@
-# Site
-#repository: sproogen/resume-theme
-#favicon: images/favicon.ico
-
 # Content configuration version
 version: 2
 
 # Personal info
 name: Effie Liouta
-title: Senior Network System Administrator
+#title: Web Developer
 email: effieliouta@gmail.com
 
 # Dark Mode (true/false/never)
