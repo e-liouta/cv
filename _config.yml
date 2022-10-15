@@ -49,11 +49,11 @@ content:
      layout: list # Type of content section (list/text)
      content:     
        - layout: left
-        title: Plantech
-        sub_title: Web Designer & Developer
-        caption: May 2019 - September 2022
+        title: aLearning.gr
+        sub_title: Illustrator
+        caption: July 2020 - February 2021
         description: | # this will include new lines to allow paragraphs
-            Responsive Web Design | Website Development (using CMS) | SEO | Database Optimization | Site-Health Maintance.
+            Illustration for children's books, Advertisements, Social Media Posts.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
