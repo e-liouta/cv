@@ -46,17 +46,7 @@ content:
         caption: May 2019 - September 2022
         description: | # this will include new lines to allow paragraphs
             Responsive Web Design, Website Development (using CMS), SEO, Database Optimization, Site Health - Maintance
-            
-     content:
-      - layout: left
-        title: Plantech.gr
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Web Designer & Developer Plantech.gr
-        caption: May 2019 - September 2022
-        description: | # this will include new lines to allow paragraphs
-            Responsive Web Design, Website Development (using CMS), SEO, Database Optimization, Site Health - Maintance
-            
+         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
