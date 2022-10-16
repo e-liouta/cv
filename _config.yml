@@ -39,14 +39,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: QA auth
+        sub_title: Web Developer
+        caption: Sept 2022 - Current
+        description: | # this will include new lines to allow paragraphs
+            Website Development
+            
+     content:
+      - layout: left
         title: Plantech.gr
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Web Designer & Developer Plantech.gr
+        sub_title: Web Designer & Developer
         caption: May 2019 - September 2022
         description: | # this will include new lines to allow paragraphs
             Responsive Web Design, Website Development (using CMS), SEO, Database Optimization, Site Health - Maintance
-         
+            
+     content:
+      - layout: left
+        title: aLearning.gr
+        sub_title: Graphic Designer
+        caption: Jul 2020 - Feb 2021
+        description: | # this will include new lines to allow paragraphs
+            Illustrator for children’s books, Advertisements, Social media posts
+            
+      content:
+      - layout: left
+        title: Click.Solutions
+        sub_title: Junior Web Developer
+        caption: Jan 2019 - Apr 2019
+        description: | # this will include new lines to allow paragraphs
+            Development ( Website using CMS ), Copywrite
+            
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
