@@ -31,9 +31,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
-content:
+ content:
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,7 +76,7 @@ content:
         caption: 2022 - present
         sub_title: MSc, Human Computer Interaction
         description: | # this will include new lines to allow paragraphs
-         I just started this program and I very excited
+         I just started this program and I very excited!
          
       - layout: left
         title: Institute of Vocational Training Delta 360
