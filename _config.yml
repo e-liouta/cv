@@ -45,7 +45,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Website Development
             
-     content:
+    # content:
       - layout: left
         title: Plantech.gr
         sub_title: Web Designer & Developer
@@ -53,7 +53,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Responsive Web Design, Website Development (using CMS), SEO, Database Optimization, Site Health - Maintance
             
-     content:
+    # content:
       - layout: left
         title: aLearning.gr
         sub_title: Graphic Designer
@@ -61,7 +61,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Illustrator for children’s books, Advertisements, Social media posts
             
-      content:
+      #content:
       - layout: left
         title: Click.Solutions
         sub_title: Junior Web Developer
