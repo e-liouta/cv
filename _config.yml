@@ -29,7 +29,7 @@ linkedin_username: atuoil
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
+   Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
 
  content:
     - title: Experience # Title for the section
@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
         description: | # this will include new lines to allow paragraphs
             Curently upgrating the website of the qa.auth.gr. The strugle is that there is a huge database with very important information. I am working on this project about one month and until now I learnt Postman Api Plantform and GitLab.
             
-    # content:
+
       - layout: left
         title: Plantech.gr
         sub_title: Web Designer & Developer
@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
         description: | # this will include new lines to allow paragraphs
             At the time I was working for Plantech mainly I had to design responsive website, building them using CMS, care about their google score - SEO, optimize thei databases if needed and generally maintain the sites in a good health.
             
-    # content:
+   
       - layout: left
         title: aLearning.gr
         sub_title: Graphic Designer
@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
         description: | # this will include new lines to allow paragraphs
             This was a great project. I had to illustrate books for educational purposes for children with learning disabilities as well as advertisements and social media posts in order to promote the books.
             
-      #content:
+
       - layout: left
         title: Click.Solutions
         sub_title: Junior Web Developer
