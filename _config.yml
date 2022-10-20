@@ -95,7 +95,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Web some of my other interests and hobbies are dancing, hiking, painting, snorkeling, traveling and educating myself and my friends about a more sustainable, consius and ethical lifestyle.
-
+      
+      
+<ul>
+      <li><p>previous page: <code>https://webring.bucketfish.me/redirect.html?to=prev&amp;name=<strong>your name</strong></code></p></li>
+      <li><p>next page: <code>https://webring.bucketfish.me/redirect.html?to=next&amp;name=<strong>your name</strong></code></p></li>
+      <li><p>webring website: <code>https://webring.bucketfish.me</code></p></li>
+    </ul>
 
 # Footer
 footer_show_references: true
