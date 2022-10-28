@@ -104,6 +104,26 @@ content:
     </ul>
 
 # Footer
+      <script>
+        //specify random links below. You can have as many as you want
+        var randomlinks=new Array()
+
+        randomlinks[0]=""
+        randomlinks[1]=""
+        randomlinks[2]=""
+        randomlinks[3]="https://e-liouta.github.io/"
+        randomlinks[4]="https://kwnnath.github.io/jekyll-cv/"
+        randomlinks[5]=""
+
+        function randomlink(){
+          window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
+        }
+        //-->
+      </script>
+      <form method="post">
+      <p><input type="button" name="B1" value="Choose a random site >>" onclick="randomlink()"></p> </form>
+    
+       
 footer_show_references: true
 # references_title: References on request (Override references text)
 
