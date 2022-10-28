@@ -32,17 +32,17 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
    
 content:
-  - title: Experience # Title for the section
+  -title: Experience # Title for the section
   layout: list # Type of content section (list/text)
   content:
-    - layout: left
+    -layout: left
       title: QA auth
       sub_title: Web Developer
       caption: Sept 2022 - Current
       description: | # this will include new lines to allow paragraphs
         Curently upgrating the website of the qa.auth.gr. The strugle is that there is a huge database with very important information. I am working on this project about one month and until now I learnt Postman Api Plantform and GitLab.
             
-    - layout: left
+    -layout: left
       title: Plantech.gr
       sub_title: Web Designer & Developer
       caption: May 2019 - September 2022
@@ -50,14 +50,14 @@ content:
         At the time I was working for Plantech mainly I had to design responsive website, building them using CMS, care about their google score - SEO, optimize thei databases if needed and generally maintain the sites in a good health.
             
    
-    - layout: left
+    -layout: left
       title: aLearning.gr
       sub_title: Graphic Designer
       caption: Jul 2020 - Feb 2021
       description: | # this will include new lines to allow paragraphs
         This was a great project. I had to illustrate books for educational purposes for children with learning disabilities as well as advertisements and social media posts in order to promote the books.
             
-    - layout: left
+    -layout: left
       title: Click.Solutions
       sub_title: Junior Web Developer
       caption: Jan 2019 - Apr 2019
@@ -65,31 +65,31 @@ content:
         During the time I was working for Click Solutions I was developing websites using CMS.
             
             
-  - title: Education # Title for the section
+  -title: Education # Title for the section
   layout: list # Type of content section (list/text)
   content:
-    - layout: left
-      title: University of Patrs
-      caption: 2022 - present
-      sub_title: MSc, Human Computer Interaction
-      description: | # this will include new lines to allow paragraphs
-       I just started this program and I am very excited!
+    -layout: left
+     title: University of Patrs
+     caption: 2022 - present
+     sub_title: MSc, Human Computer Interaction
+     description: | # this will include new lines to allow paragraphs
+      I just started this program and I am very excited!
          
-    - layout: left
+    -layout: left
       title: Institute of Vocational Training Delta 360
       caption: 2018 - 2020
       sub_title: Diploma of Graphic Design for print and electronic media
       description: | # this will include new lines to allow paragraphs
        During this programm at the Institute od Vocational Delta 360 I developed skills such as drawing, aesthetics, color theory, branding, motion graphics, web design and graphic design. Some of the tools I used are Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe AfterEffects, Adobe Dreamweaver, Adobe Premier, Figma... 
     
-    - layout: left
+    -layout: left
       title: University Of Ioannina
       caption: 2012 - 2018
       sub_title: BSc, Computer Science
       description: | # this will include new lines to allow paragraphs
         During my studies at the department of computer scence at the Univeristy of Ioannina I had the opportunity to learn about many fields. My favourites were Computer Graphics, Multimedia and Operating Systems.
     
-  - title: A Little More About Me
+  -title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Web some of my other interests and hobbies are dancing, hiking, painting, snorkeling, traveling and educating myself and my friends about a more sustainable, consius and ethical lifestyle.
@@ -133,4 +133,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+ -jekyll-seo-tag
