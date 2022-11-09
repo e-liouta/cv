@@ -8,28 +8,22 @@ version: 2
 # Personal info
 name: Effie Liouta
 title: Web Developer
-#email: effieliouta@gmail.com
-#website: www.github.com/sproogen/resume-theme
+
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  e-liouta
 instagram_username: effie_lt
 linkedin_username: atuoil
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
+   Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
    
 content:
   -title: Experience # Title for the section
@@ -94,34 +88,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Web some of my other interests and hobbies are dancing, hiking, painting, snorkeling, traveling and educating myself and my friends about a more sustainable, consius and ethical lifestyle.
       
-      
-<ul>
-  <li><p>previous page: <code>https://webring.bucketfish.me/redirect.html?to=prev&amp;name=<strong>your name</strong></code></p></li>
-  <li><p>next page: <code>https://webring.bucketfish.me/redirect.html?to=next&amp;name=<strong>your name</strong></code></p></li>
-  <li><p>webring website: <code>https://webring.bucketfish.me</code></p></li>
-</ul>
-
+  < a href="https://upatras-hci-2022.github.io/webring/"><img src="/imgaes/HCI.png"></a>
 # Footer
-<script>
-  //specify random links below. You can have as many as you want
-  var randomlinks=new Array()
-
-    randomlinks[0]=""
-    randomlinks[1]=""
-    randomlinks[2]=""
-    randomlinks[3]="https://e-liouta.github.io/"
-    randomlinks[4]="https://kwnnath.github.io/jekyll-cv/"
-    randomlinks[5]=""
-
-    function randomlink(){
-      window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
-    }
-    //-->
-</script>
-<form method="post">
-<p><input type="button" name="B1" value="Choose a random site >>" onclick="randomlink()"></p> </form>
-    
-       
+   
 footer_show_references: true
 # references_title: References on request (Override references text)
 
