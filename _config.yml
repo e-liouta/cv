@@ -20,8 +20,7 @@ linkedin_username: effie-lt
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill.
-
+  Hi, my name's Effie and I'm a Web Developer. As well as web developer I also have experience as a graphic designer. I have worked at a number of companies gaining teamwork skill. Also I am a member of the HCI Webring check this out [here](https://upatras-hci-2022.github.io/webring/).
 
 content:
   -title: Experience # Title for the section
@@ -86,7 +85,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Web some of my other interests and hobbies are dancing, hiking, painting, snorkeling, traveling and educating myself and my friends about a more sustainable, consius and ethical lifestyle.
       
-  < a href="https://upatras-hci-2022.github.io/webring/"><img src="/imgaes/HCI.png"></a>
+  
 
 # Footer
 footer_show_references: true
@@ -114,4 +113,4 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-  ]
+]
